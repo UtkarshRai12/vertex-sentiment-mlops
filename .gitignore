@@ -1,0 +1,11 @@
+# Local project settings and credentials. Do not commit.
+config.py
+.env
+*.json.key
+credentials*.json
+service-account*.json
+
+# Local environments
+.venv/
+__pycache__/
+*.py[cod]
